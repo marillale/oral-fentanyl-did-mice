@@ -62,7 +62,7 @@ Statistics (two-way ANOVA, mixed-effects models, effect sizes) were computed in 
 
 ## Citation
 
-Allichon, M.-C., Boehm, S.F., Jordan, N.D., Nelson, L.H., Joffe, M.E. *Voluntary oral fentanyl intake produces dose- and sex-dependent physical dependence in mice without overt affective disturbances.* [journal, year, DOI — fill in upon publication]
+Allichon, M.-C., Boehm, S.F., Jordan, N.D., Nelson, L.H., Joffe, M.E. *Voluntary oral fentanyl intake produces dose- and sex-dependent physical dependence in mice without overt affective disturbances.* 
 
 ## Contact
 
